@@ -1,0 +1,8 @@
+the abstract methods to be overridden while implementing window listener interface:
+1) WindowOpenned(WindowEvent e )
+2) WindowClosing (WindowEvent e )
+3) WindowClosed(WindowEvent e )
+4) WindowIconified(WindowEvent e )
+5) WindowDeiconified(WindowEvent e )
+6) WindowActivated(WindowEvent e )
+7) WindowDeactivated(WindowEvent e )
